@@ -20,7 +20,7 @@ All my 42Network projects from 1337 Benguerir.
 | 10 🐚 | [EXAM-04](https://github.com/Dahuum/42_EXAM/tree/main/.subjects/STUD_PART/exam_04) | C | Micro shell, More tiny than minishell | 💯 100% |
 | 15 🌐 | [Webserv](https://github.com/Ayman-aa/CraftHTTP) | C++ | HTTP server implementation | 💯 125% |
 | 16 🐳 | [Inception](https://github.com/Ayman-aa/inception) | Docker | System administration with Docker | 💯 100% |
-| 17 📚 | [EXAM-05](https://github.com/Dahuum/42_EXAM/tree/main/.subjects/STUD_PART/exam_05) | C++ | C++ modules and practice | 💯 TBD% |
+| 17 📚 | [EXAM-05](https://github.com/Dahuum/42_EXAM/tree/main/.subjects/STUD_PART/exam_05) | C++ | C++ modules and practice | 💯 100% |
 | 18 🏓 | [ft_transcendence](https://cdn.intra.42.fr/pdf/pdf/150371/en.subject.pdf) | Web Development | Pong game web application | 💯 TBD% |
 | 19 📚 | [EXAM-06](https://github.com/Dahuum/42_EXAM/tree/main/.subjects/STUD_PART/exam_06) | C | Network programming | 💯 TBD% |
 
